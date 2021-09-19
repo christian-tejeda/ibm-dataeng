@@ -1,0 +1,14 @@
+14:04:43-2021-Sep-13, ETL process started.
+14:04:43-2021-Sep-13, ETL process has started the extraction step.
+14:04:43-2021-Sep-13, Extraction finished.
+14:04:43-2021-Sep-13, ETL process has started the transformation step.
+14:04:43-2021-Sep-13, Transformation finished.
+14:04:43-2021-Sep-13, ETL process has started the loading step.
+14:05:11-2021-Sep-13, ETL process started.
+14:05:11-2021-Sep-13, ETL process has started the extraction step.
+14:05:11-2021-Sep-13, Extraction finished.
+14:05:11-2021-Sep-13, ETL process has started the transformation step.
+14:05:11-2021-Sep-13, Transformation finished.
+14:05:11-2021-Sep-13, ETL process has started the loading step.
+14:05:11-2021-Sep-13, Loading finished.
+14:05:11-2021-Sep-13, ETL process completed.
